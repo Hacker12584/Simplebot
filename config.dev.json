@@ -24,7 +24,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Th'w Itachi 💋💐",
+  "nickNameBot": "Th^w Itachi 💋💐",
   "prefix": ".",
   "database": {
     "type": "sqlite",
@@ -36,10 +36,11 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "kramn1205@gmail.com",
-      "clientId": "9815598649",
-      "clientSecret": "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",
-      "refreshToken": "1//041Aj0DBzlyxuCgYIARAAGAQSNwF-L9IrSJFfXahDmIC5CaNNthQwg0yT8ZrFaUUofZBR13qsh-nNBLi7_4LZMlZ00F8AiWo6Moo",
+            "email": "kramn1205@gmail.com",
+      "clientId": "",
+      "clientSecret": "",
+      "refreshToken": "",
+      "apiKey": ""
       "apiKey": ""
     },
     "gRecaptcha": {
