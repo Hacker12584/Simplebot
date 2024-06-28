@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100086747072197"
+    "100073129302064"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Th^w Itachi 💋💐",
-  "prefix": ".",
+  "nickNameBot": "Gilgamesh",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -36,7 +36,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-            "email": "kramn1205@gmail.com",
+            "email": "korisawaumuzaki@gmail.com",
       "clientId": "",
       "clientSecret": "",
       "refreshToken": "",
