@@ -36,7 +36,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-            "email": "kramn1205@gmail.com",
+      "email": "kramn1205@gmail.com",
       "clientId": "",
       "clientSecret": "",
       "refreshToken": "",
